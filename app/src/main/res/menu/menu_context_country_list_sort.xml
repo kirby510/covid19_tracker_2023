@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/sort_alphabetically"
+            android:title="@string/alphabetically" />
+
+        <item
+            android:id="@+id/sort_number_of_active_cases"
+            android:title="@string/number_of_active_cases" />
+
+        <item
+            android:id="@+id/sort_number_of_deaths"
+            android:title="@string/number_of_deaths" />
+
+        <item
+            android:id="@+id/sort_active_cases_for_100k_hab"
+            android:title="@string/active_cases_for_100k_hab" />
+
+        <item
+            android:id="@+id/sort_deaths_for_100k_hab"
+            android:title="@string/deaths_for_100k_hab" />
+    </group>
+</menu>

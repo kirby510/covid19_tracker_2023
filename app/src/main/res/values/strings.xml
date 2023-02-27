@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">COVID-19 Tracker</string>
+    <string name="number_of_active_cases">Number of Active Cases</string>
+    <string name="number_of_deaths">Number of Deaths</string>
+    <string name="active_cases_for_100k_hab">Active Cases for 100k Hab</string>
+    <string name="deaths_for_100k_hab">Deaths for 100k Hab</string>
+    <string name="last_updated">Last Updated: %1$s</string>
+    <string name="search">Search</string>
+    <string name="sort">Sort</string>
+    <string name="sort_by">Sort By</string>
+    <string name="alphabetically">Alphabetically</string>
+    <string name="error">Error</string>
+    <string name="cases">Cases</string>
+</resources>
